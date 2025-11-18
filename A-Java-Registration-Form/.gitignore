@@ -1,0 +1,57 @@
+# Compiled Java files
+*.class
+*.jar
+*.war
+*.ear
+
+# Build directories
+build/
+target/
+dist/
+out/
+
+# IDE and editor files
+.idea/
+.vscode/
+*.iml
+*.iws
+*.ipr
+.project
+.classpath
+.settings/
+*.sublime-project
+*.sublime-workspace
+
+# OS files
+.DS_Store
+Thumbs.db
+.directory
+*~
+*.swp
+*.swo
+.#*
+
+# Database files (SQLite)
+*.db
+*.sqlite
+*.sqlite3
+
+# Logs
+*.log
+logs/
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+
+# Maven
+dependency-reduced-pom.xml
+
+# Gradle
+gradle/
+.gradle/
+
+# Node (if using any web tools)
+node_modules/
+npm-debug.log
